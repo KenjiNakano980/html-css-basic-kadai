@@ -28,7 +28,7 @@
                 <h3>和菓子店も「トリックアスリート！」</h3>
                 <p>日本でも年々人気の高まるハロウィン。<br>
                     今年は大手和菓子店5社がハロウィン向けの和菓子セットを共同開発しました。</p>
-                <audio controls src="ichi.mp3" type="audio/mp3">水が流れる音</audio>
+                <audio controls src="ichi.mp3" type="audio/mp3"></audio>
             </section>
 
 
@@ -55,7 +55,7 @@
                     <br>
 
                     <label>おすすめの和菓子の名称</label>
-                    <input type="text" name="wagasi" size="25" placeholder=" おすすめの和菓子の名称">
+                    <input type="text" name="wagasi" size="25" placeholder="例：みたらし団子">
                     <br>
                     <br>
 
