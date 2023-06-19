@@ -1,0 +1,29 @@
+/* フォントスタイル */
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: 'Arial', 'Meiryo', sans-serif;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 40px;
+  letter-spacing: 1, 2em;
+  text-shadow: -1px -1px 3px blueviolet;
+  text-decoration: underline rgb(115, 115, 114);
+}
+
+.Skyblue {
+  color: skyblue;
+}
+
+.Pink {
+  color: rgb(255, 192, 203);
+}
+
+#basic > p {
+  font-weight: bold;
+}
